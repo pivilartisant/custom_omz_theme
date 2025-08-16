@@ -24,6 +24,5 @@ ZSH_THEME_GIT_PROMPT_DIRTY=" 💀"
 ZSH_THEME_GIT_PROMPT_CLEAN=" 😈"
 
 # putting it all together
-PROMPT='╭─ %B$(username) ⚧ $(directory) $(git_prompt_info)%b
-       ╰─→ '
-RPROMPT='$(return_status) $(current_time)'
+PROMPT='✮ ⋆ ˚｡𖦹 ⋆｡°✩ %B$(username) ⚧ $(directory) $(git_prompt_info)%b '
+RPROMPT='$(return_status) $(current_time) :3'
